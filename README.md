@@ -59,7 +59,7 @@ The project involved cleaning and preprocessing data, exploratory analysis, and 
 
 Setup and Usage
 Clone the Repository:
-git clone https://github.com/manishkumar1101/Child-Mortality-Prediction
+git clone https://github.com/SAIHARSHITHRAJU/Child-Mortality-Prediction
 
 Install Dependencies: Ensure you have Python and the necessary libraries:
 pip install -r requirements.txt
